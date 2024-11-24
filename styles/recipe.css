@@ -1,0 +1,14 @@
+*{
+    background-color: #F8C0C0;
+    font-family: 'Arial', 'Verdana', 'sans-serif';
+    color: #5C3D2E;
+}
+
+.title{
+    font-size: 40px;
+    text-align: center;
+}
+.recipeImg{
+    height: 350px;
+    width: 400px;   
+}
